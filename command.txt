@@ -1,0 +1,8 @@
+login;
+    user_register -u <username> -ph <phoneNo>
+
+    admin_register -u <username> -p <password>
+
+    user_login -u <username> -ph <phoneNo>
+
+    admin_login -u <username> -p <password>

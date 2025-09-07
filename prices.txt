@@ -1,0 +1,3 @@
+Standard 200000
+Royal 400000
+Suite 600000
